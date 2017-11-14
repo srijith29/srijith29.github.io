@@ -1,10 +1,10 @@
 body{
   background:#f5f5dc;
-  font-family:Arial;
+  font-family:Helvetica;
 }
 h1
 {
-  font-style:Arial;
+  font-family: times;
   color: Orange;
   text-align: center;
   margin-bottom:100px;
