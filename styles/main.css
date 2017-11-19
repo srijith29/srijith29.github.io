@@ -23,9 +23,11 @@ p{
 }
 header{
   max-width: 300px;
-
 }
-
+.border
+{
+  background-color:black;
+}
 
 .pagewrapper
 {
@@ -40,9 +42,11 @@ header{
 .sidebar
 {
   background-color:#FF7F50;
-  z-index:5;
-  margin-left: 10px;
+  margin-left: 30px;
   margin-top:30px;
   font-size:30px;
   font-family:verdana;
+}
+h1,h2,h3,p{
+  padding:10px;
 }
