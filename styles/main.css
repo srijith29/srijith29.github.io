@@ -11,6 +11,19 @@ img{
   filter:grayscale(100%);
   width:100%;
 }
+img.hover
+{
+  filter:blur(20%);
+}
+@media (min-width:400px)
+{
+  img
+  {
+    max-width: 100%;
+  }
+}
+
+
 .color
 {
   filter:none;
