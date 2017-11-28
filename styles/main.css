@@ -13,10 +13,7 @@ img{
   filter:grayscale(100%);
   width:100%;
 }
-img.hover
-{
-  filter:blur(20%);
-}
+
 @media (min-width:400px)
 {
   img
@@ -32,6 +29,7 @@ img.hover
 }
 .numberCircle {
     font: 30px Arial, sans-serif;
+    margin-left:25px;
 
     width: 2em;
     height: 2em;
@@ -46,11 +44,20 @@ img.hover
     line-height: 2em;
     box-sizing: content-box;
 }
-a{
-  font-size:2em;
+
+nav{
+  font-size:1em;
+}
+.blog
+{
   padding:10px;
 }
-nav{
-  font-size:.5em;
-
+.logo
+{
+font: 30px Arial, sans-serif;
+text-decoration:none;
+color:grey;
+}
+a{
+  font-size:1.5em;
 }
