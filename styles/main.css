@@ -2,7 +2,7 @@
 p{
   color:white;
 }
-h6
+h6,h1
 {
   color:grey;
 }
@@ -57,7 +57,7 @@ a{
   font-size:1.5em;
 }
 /*Mobile*/
-@media (max-width:500px)
+@media (max-width:720px)
 {
   img
   {
